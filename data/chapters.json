@@ -1,0 +1,14 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Chapter 1",
+      "path": "data/chapter-01.json"
+    },
+    {
+      "number": 2,
+      "title": "Chapter 2",
+      "path": "data/chapter-02.json"
+    }
+  ]
+}
