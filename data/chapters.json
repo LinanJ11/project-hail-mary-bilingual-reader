@@ -9,6 +9,16 @@
       "number": 2,
       "title": "Chapter 2",
       "path": "data/chapter-02.json"
+    },
+    {
+      "number": 3,
+      "title": "Chapter 3",
+      "path": "data/chapter-03.json"
+    },
+    {
+      "number": 4,
+      "title": "Chapter 4",
+      "path": "data/chapter-04.json"
     }
   ]
 }
